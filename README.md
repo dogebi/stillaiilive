@@ -1,6 +1,30 @@
-# stillaiilive
-Did you die?
+## Still AI Live
+
+🇰🇷 한국어 버전
+Still AI Live는 사용자의 생존 여부를
+자동으로 확인하고 긴급 알림을 제공하는
+웹 애플리케이션입니다.
+
+사이트: https://stillaiilive.netlify.app/
 
 
+🇺🇸 English Version
+Still AI Live
 
-https://stillaiilive.netlify.app/
+A smart well-being monitoring system that automatically checks your safety and sends emergency alerts when you're unresponsive.
+
+Site: https://stillaiilive.netlify.app/
+
+🇨🇳 Chinese Version (简体中文)
+Still AI Live
+
+这是一个智能生存确认系统。它会自动检测您的安全状态，并在预设时间内未收到反馈时向您的紧急联系人发送警报。
+
+网址: https://stillaiilive.netlify.app/
+
+🇯🇵 Japanese Version
+Still AI Live
+
+ユーザーの安否を自動で確認し、もしもの時に緊急アラートを通知するウェブアプリケーションです。一人暮らしの方や、離れて暮らす家族の安全を守ります。
+
+サイト: https://stillaiilive.netlify.app/
